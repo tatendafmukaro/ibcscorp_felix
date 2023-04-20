@@ -3,7 +3,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.avatar {
+.mugshot {
     width: 150px;
 }
 
@@ -14,11 +14,11 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #ddebf8;
+    background: #b0d5ec;
     color: #2b2839;
-    border-bottom: 6px solid #d8cefe;
+    border-bottom: 6px solid #c00b0b;
 }
 
 .border-blue {
-    border: 1px dotted blue;
+    border: 1px dotted red;
 }
